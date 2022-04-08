@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello W<>rld <a href="https://napat-ar.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+  <h1>Hello W<>rld <a href="https://napat-ar.me"><img src="https://static.wikia.nocookie.net/ba07378a-bbb0-44ac-9351-d7bcb070466d" width="50px"></a></h1>
 </div>
 
 
