@@ -5,7 +5,7 @@
 
 #### About me
 - 💬 I am Napat Arayawattanapong. You can call me "Pat".
-- 💻 I am a Senior Student at the Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang. I am interested in Front-End Development, Full-Stack Development and Software Development Practice.
+- 💻 I am a Software Engineer and I very interested in Full-Stack Development.
 
 <div style="display: flex" align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=napatkrup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true" height="175px" />
